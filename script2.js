@@ -1,4 +1,3 @@
-// togri yozilgan xaxaxaa
 for (var i = 1; i > 0; i++) {
     var a = prompt('Введите число:')
     if (a <= 0) {
